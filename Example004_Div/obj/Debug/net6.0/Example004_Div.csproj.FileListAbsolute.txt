@@ -1,0 +1,15 @@
+D:\GeekBrains Study\C#\Example004_Div\bin\Debug\net6.0\Example004_Div.exe
+D:\GeekBrains Study\C#\Example004_Div\bin\Debug\net6.0\Example004_Div.deps.json
+D:\GeekBrains Study\C#\Example004_Div\bin\Debug\net6.0\Example004_Div.runtimeconfig.json
+D:\GeekBrains Study\C#\Example004_Div\bin\Debug\net6.0\Example004_Div.dll
+D:\GeekBrains Study\C#\Example004_Div\bin\Debug\net6.0\Example004_Div.pdb
+D:\GeekBrains Study\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.AssemblyReference.cache
+D:\GeekBrains Study\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains Study\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfoInputs.cache
+D:\GeekBrains Study\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfo.cs
+D:\GeekBrains Study\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.CoreCompileInputs.cache
+D:\GeekBrains Study\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.dll
+D:\GeekBrains Study\C#\Example004_Div\obj\Debug\net6.0\refint\Example004_Div.dll
+D:\GeekBrains Study\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.pdb
+D:\GeekBrains Study\C#\Example004_Div\obj\Debug\net6.0\Example004_Div.genruntimeconfig.cache
+D:\GeekBrains Study\C#\Example004_Div\obj\Debug\net6.0\ref\Example004_Div.dll
