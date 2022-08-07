@@ -15,11 +15,11 @@ Console.WriteLine("8");
 Console.SetCursorPosition(xc, yc);
 Console.WriteLine("8");
 
-int x = xa, y = xb;
+int x = xa, y = ya;
 
 int count = 0;
 
-while (count < 10);
+while (count < 1000);
 {
     int what = new Random().Next (0, 3);  // (0, 3) - это три разных случая 0, 1, 2 для разных вершин
     
@@ -42,6 +42,6 @@ while (count < 10);
     }
 
     Console.SetCursorPosition(x, y);
-    Console.WriteLine(8);
+    Console.WriteLine("+");
     count = count + 1;
 }
