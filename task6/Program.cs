@@ -1,9 +1,14 @@
 ﻿Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
-int count = number * -1;
-while(count <= number)
+
+int remaining = number % 2;
+
+if (remaining == 0)
 {
-    Console.Write(count );
-    Console.Write(" ");
-    count = count + 1;
+    Console.Write("Число явлется четным");
 }
+else
+{
+    Console.Write("Число явлется нечетным");
+}
+
