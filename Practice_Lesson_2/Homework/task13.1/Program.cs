@@ -7,7 +7,7 @@ if(a.Contains("-"))
     { 
         Console.WriteLine("Третьей цифры нет");  
     }
-else
+    else
     {
     char b = a[3];
     Console.WriteLine(b);
