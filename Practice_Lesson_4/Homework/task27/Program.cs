@@ -3,7 +3,7 @@
 // 82 -> 10
 // 9012 -> 12
 
-Console.WriteLine("Введите число A: ");
+Console.WriteLine("Введите число: ");
 int a = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 string b = Convert.ToString(a);
 int sum = 0;

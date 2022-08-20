@@ -8,7 +8,6 @@ double a = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите число B: ");
 double b = Convert.ToDouble(Console.ReadLine());
 double c = 1;
-Console.WriteLine(b);
 
 if (b > 0)
 {

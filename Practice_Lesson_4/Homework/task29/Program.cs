@@ -4,6 +4,8 @@
 
 int[] array = new int[8];
 
+Console.WriteLine("Массив из 8 случайных чисел от 0 до максимального значения:");
+
 for(int i = 0; i < array.Length; i++)
 {
     array[i] = new Random().Next(0,int.MaxValue);
