@@ -22,8 +22,8 @@ for (int i = 0; i < m; i++)
 {
     for (int j = 0; j < n; j++)
     {
-        matrix [i, j] = new Random().Next(1, 10);
-        Console.Write(matrix[i, j]+ " ");
+        matrix[i, j] = new Random().Next(1, 10);
+        Console.Write(matrix[i, j] + " ");
     }
     Console.WriteLine();
 }
@@ -32,7 +32,7 @@ for (int i = 0; i < m; i++)
 {
     for (int j = 0; j < n; j++)
     {
-        avg[j] += matrix [i, j] / m; 
+        avg[j] += matrix[i, j] / m;
     }
     Console.WriteLine();
 

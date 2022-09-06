@@ -18,8 +18,8 @@ for (int i = 0; i < m; i++)
 {
     for (int j = 0; j < n; j++)
     {
-        matrix [i, j] = new Random().Next(1, 10);
-        Console.Write(matrix[i, j]+ " ");
+        matrix[i, j] = new Random().Next(1, 10);
+        Console.Write(matrix[i, j] + " ");
     }
     Console.WriteLine();
 }
@@ -28,5 +28,5 @@ int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите индекс столбца:");
 int b = Convert.ToInt32(Console.ReadLine());
 
-if (a >= m || b>=n) Console.WriteLine("Такого элемента нет");
-else Console.WriteLine(matrix[a,b]);
+if (a >= m || b >= n) Console.WriteLine("Такого элемента нет");
+else Console.WriteLine(matrix[a, b]);
